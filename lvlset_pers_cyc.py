@@ -3,15 +3,16 @@ import mainModule
 import ACTIVATE
 
 
-filename="snake_loop.off"
+################ PARAMETERS FOR THE PROGRAM ################
+
+filename="snake.off"
 direction=(1544, 1199)
 skip_vertices=[]
-# type = "co"
-type = "oo"
+type = "co"
+# type = "oo"
 num_of_intervals=2
 
-# filename = "24.off"
-# direction = (317, 509)
+############################################################
 
 
 if __name__ == "__main__":

@@ -1,3 +1,5 @@
+![double torus](https://github.com/taohou01/LvlsetPersCyc/blob/master/dtorus.png?raw=true)
+
 # Computing Optimal Levelset Persistent 1-Cycles for Triangular Meshes
 
 This project implements the algorithm described in the following paper:

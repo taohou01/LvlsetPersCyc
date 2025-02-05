@@ -1,10 +1,10 @@
-![double torus](https://github.com/taohou01/LvlsetPersCyc/blob/master/dtorus.png?raw=true)
+<img src="dtorus.jpg" width="350">
 
 # Computing Optimal Levelset Persistent 1-Cycles for Triangular Meshes
 
 This project implements the algorithm described in the following paper:
 
-Computing Optimal Persistent Cycles for Levelset Zigzag on Manifold-like Complexes
+[Computing Optimal Persistent Cycles for Levelset Zigzag on Manifold-like Complexes]()
 
 by Tamal K. Dey, Tao Hou, and Anirudh Pulavarthy. The programming language used is Python.
 

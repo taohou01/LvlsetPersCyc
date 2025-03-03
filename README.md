@@ -4,7 +4,7 @@
 
 This project implements the algorithm described in the following paper:
 
-[Computing Optimal Persistent Cycles for Levelset Zigzag on Manifold-like Complexes]()
+[Computing Optimal Persistent Cycles for Levelset Zigzag on Manifold-like Complexes](https://arxiv.org/pdf/2105.00518)
 
 by Tamal K. Dey, Tao Hou, and Anirudh Pulavarthy. The programming language used is Python.
 

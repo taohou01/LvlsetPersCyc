@@ -10,7 +10,7 @@ by Tamal K. Dey, Tao Hou, and Anirudh Pulavarthy. The programming language used 
 
 ## Developers Information
 
-This software is developed by Anirudh Pulavarthy (a master student at DePaul U. by the time) with the help of [Tao Hou](https://taohou01.github.io/).
+This software is developed by Anirudh Pulavarthy with the help of [Tao Hou](https://taohou01.github.io/).
 
 ## About the Implementation
 

@@ -38,3 +38,7 @@ In the script file `lvlset_pers_cyc.py`, you need to specify the following param
 - [PyMaxflow](https://pmneila.github.io/PyMaxflow/index.html): We used it to compute minimum cut.
 - [FastZigzag](https://github.com/TDA-Jyamiti/fzz): A package for computing zigzag persistence; we used it for computing the levelset zigzag barcode.
 - [Gudhi](https://gudhi.inria.fr/): A comprehensive package for topological data analysis; we mainly used the 'SimplexTree' data structure.
+
+## Contacts
+
+Please contact Tao Hou (taohou at uoregon dot edu) for any questions related to the software.
